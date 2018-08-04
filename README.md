@@ -17,13 +17,14 @@ These notes should be used as a reference. I suggest you take the course if you 
 
 ---
 ## Sections:
-2. Tableau Basics
-3. Time Series Aggregation Filters
-4. Joining & Blending Data
-5. Table Calculations and Advanced Dashboards
-6. Advanced Data Preparations
-7. Tableau 10
-8. Recap
+2. [Tableau Basics](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/02_TableauBasics.ipynb)
+3. [Time Series, Aggregation, Filters](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/03_TimeSeries-Aggregation-Filters.ipynb)
+4. [Maps, Scatterplots, and Your First Dashboard](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/04_Maps-Scatterplots-Dashboard.ipynb)
+5. [Joining & Blending Data](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/05_JoiningBlendingData.ipynb)
+6. [Table Calculations, Advanced Dashboards, Storytelling](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/06_TableCalculations-AdvancedDashboards-Storytelling.ipynb)
+7. [Advanced Data Preparations](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/07_AdvancedDataPreparation.ipynb)
+8. [Tableau 10](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/08_Tableau10.ipynb)
+9. [Recap](https://github.com/alexguanga/udemy-tableau-a-z/blob/master/09_Recap.ipynb)
 
 ---
 ## Projects:
